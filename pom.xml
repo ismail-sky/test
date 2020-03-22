@@ -1,0 +1,13 @@
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>ec2-54-241-237-162.us-west-1.compute.amazonaws.com</name>
+        <url>http://54.241.237.162:8082/artifactory/libs-release-local</url>
+    </repository>
+
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>ec2-54-241-237-162.us-west-1.compute.amazonaws.com</name>
+        <url>http://54.241.237.162:8082/artifactory/libs-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
